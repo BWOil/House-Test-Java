@@ -53,7 +53,7 @@ class HouseTest {
         House houseTestCase2Data3 = new House("91j", "211 Pert", "Unit",750000,
                 3,2,0,120.50, "in the heart of CBD");
 //        assertFalse(houseTestCase2Data3.addHouse());
-        assertAll("Should check the valid inputs",
+        assertAll("Should check the invalid inputs",
                 ()->assertFalse(houseTestCase2Data1.addHouse()),
                 ()->assertFalse(houseTestCase2Data2.addHouse()),
                 ()->assertFalse(houseTestCase2Data3.addHouse()));
@@ -71,7 +71,7 @@ class HouseTest {
                 100000,3,2,0,110.50,
                 "Near St Kilda Street and shopping store and the beautiful beach");
 //        assertFalse(houseTestCase3Data2.addHouse());
-        assertAll("Should check the valid inputs",
+        assertAll("Should check the invalid inputs",
                 ()->assertFalse(houseTestCase3Data1.addHouse()),
                 ()->assertFalse(houseTestCase3Data2.addHouse()));
 
@@ -88,7 +88,7 @@ class HouseTest {
         House houseTestCase4Data2 = new House("MLK8402134", "300 Cairns", "Apartment",
                 600000,5,1,1, 150.50, "in the heart of CBD");
 //        assertFalse(houseTestCase4Data2.addHouse());
-        assertAll("Should check the valid inputs",
+        assertAll("Should check the invalid inputs",
                 ()->assertFalse(houseTestCase4Data1.addHouse()),
                 ()->assertFalse(houseTestCase4Data2.addHouse()));
     }
@@ -105,7 +105,7 @@ class HouseTest {
                 350001,3,4,5, 20.50,
                 "in the heart of CBD");
 //        assertFalse(houseTestCase5Data2.addHouse());
-        assertAll("Should check the valid inputs",
+        assertAll("Should check the invalid inputs",
                 ()->assertFalse(houseTestCase5Data1.addHouse()),
                 ()->assertFalse(houseTestCase5Data2.addHouse()));
     }
@@ -122,7 +122,7 @@ class HouseTest {
                 1000000,3,2,-4, 97.50,
                 "in the heart of CBD");
 //        assertFalse(houseTestCase6Data2.addHouse());
-        assertAll("Should check the valid inputs",
+        assertAll("Should check the invalid inputs",
                 ()->assertFalse(houseTestCase6Data1.addHouse()),
                 ()->assertFalse(houseTestCase6Data2.addHouse()));
 
@@ -140,7 +140,7 @@ class HouseTest {
                 1500001,3,4,2,120.50,
                 "in the heart of CBD");
 //        assertFalse(houseTestCase7Data2.addHouse());
-        assertAll("Should check the valid inputs",
+        assertAll("Should check the invalid inputs",
                 ()->assertFalse(houseTestCase7Data1.addHouse()),
                 ()->assertFalse(houseTestCase7Data2.addHouse()));
 
@@ -157,7 +157,7 @@ class HouseTest {
         House houseTestCase8Data2 = new House("HRE9985158", "312 Bendigo", "Townhouse",
                 75001,1,2,1,80.50, "in the heart of CBD");
 //        assertFalse(houseTestCase8Data2.addHouse());
-        assertAll("Should check the valid inputs",
+        assertAll("Should check the invalid inputs",
                 ()->assertFalse(houseTestCase8Data1.addHouse()),
                 ()->assertFalse(houseTestCase8Data2.addHouse()));
 
