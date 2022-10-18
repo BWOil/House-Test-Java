@@ -50,3 +50,21 @@ REA8329415,181 Melbourne,Apartment,350000.00,4,3,1,50.00,Fully furnished unit ne
 ANB8784991,253 Sydney,Unit,100001.00,3,4,5,99.00,Lavishly furnished room near Prahran Market
 RFD9753078,999 Hobart,Apartment,149999.00,3,2,1,49.00,Stately Victorian Residence with Poolside Allure
 ANB8784991,211 Pert,Unit,750000.00,3,2,0,120.50,in the heart of CBD
+EEE8888999,333 Sydney Harbour,Unit,110001.10,3,4,5,108.89,Newly renovated room near Prahran Market
+BIT2020333,444 Wollongong Office,Apartment,1260000.00,3,4,5,116.03, Newly opened shared house in Wollonggong
+MLK8402134,211 Pert,Unit,200000.00,2,4,2,120.50,in the heart of CBD
+HRE9985158,312 Bendigo,Unit,250000.00,4,4,5,80.50,in the heart of CBD
+JHT8989894,32 Adelaide,Townhouse,599000.00,4,3,1,110.50,Stately Victorian Residence with Poolside Allure
+ABC1010101,1032 Perth,Townhouse,599000.00,4,3,1,110.50,Stately Victorian Residence with Poolside Allure
+MLK8402134,211 Pert,Unit,200000.00,3,4,2,120.50,in the heart of CBD
+HRE9985158,312 Bendigo,Unit,200000.00,3,4,2,80.50,in the heart of CBD
+LNM9386981,88 Darwin,Townhouse,500000.00,3,4,5,120.50,Stately Victorian Residence with Poolside Allure
+HRE9985158,312 Bendigo,Townhouse,200000.00,3,4,2,80.50,in the heart of CBD
+LNM9386981,88 Darwin,Townhouse,200000.00,3,4,5,120.50,Stately Victorian Residence with Poolside Allure
+HRE9985158,312 Bendigo,Townhouse,250000.00,3,4,2,80.50,in the heart of CBD
+LNM9386981,88 Darwin,Townhouse,200000.00,3,4,5,120.50,Stately Victorian Residence with Poolside Allure
+HRE9985158,312 Bendigo,Townhouse,250000.00,3,4,2,80.50,in the heart of CBD
+REA8329415,181 Melbourne,Apartment,350000.00,4,3,1,50.00,Fully furnished unit near CBD
+ANB8784991,253 Sydney,Unit,100001.00,3,4,5,99.00,Lavishly furnished room near Prahran Market
+RFD9753078,999 Hobart,Apartment,149999.00,3,2,1,49.00,Stately Victorian Residence with Poolside Allure
+ANB8784991,211 Pert,Unit,750000.00,3,2,0,120.50,in the heart of CBD
